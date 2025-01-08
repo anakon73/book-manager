@@ -9,6 +9,12 @@ npm install
 composer install
 ```
 
+## Setup and seed Database
+
+```
+php artisan migrate --seed
+```
+
 ## Dev mode
 
 ```
